@@ -1,1 +1,1 @@
-# algorithm_js
+## JavaScript algorithm study
